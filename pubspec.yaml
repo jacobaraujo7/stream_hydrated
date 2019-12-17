@@ -1,7 +1,7 @@
 name: stream_hydrated
 description: Persist Stream Data in SharedPreference. Simple and Easy Operator
 version: 0.0.1
-homepage:
+homepage: https://github.com/jacobaraujo7/stream_hydrated
 
 environment:
   sdk: ">=2.6.0 <3.0.0"
